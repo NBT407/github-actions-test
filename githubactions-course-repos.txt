@@ -1,0 +1,2 @@
+https://github.com/alialaa/github-actions-course
+https://github.com/alialaa/github-actions-course-react

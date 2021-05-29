@@ -1,0 +1,11 @@
+name: ali
+Age: 28
+address: "ldffkjfdfj"
+active: true
+key:
+  key: value
+  Key2: 33
+array:
+  - item1
+  - item2
+    
