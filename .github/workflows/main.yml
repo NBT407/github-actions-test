@@ -28,6 +28,11 @@ jobs:
       - name: Directory Bash
         run: pwd
         shell: bash
+      - name: Get Web Status
+        run: $WebResponse= Invoke-WebRequest https://veckonr.se/ 
+   
+
+        
 
 
 
