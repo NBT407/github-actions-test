@@ -1,6 +1,6 @@
 name: Shell Commands
 
-on: [pull_request]
+on: [push]
 
 jobs:
   run-shell-command:
@@ -32,7 +32,6 @@ jobs:
         run: |
           $WebResponse= Invoke-WebRequest https://veckonr.se/ 
           $WebResponse.StatusCode
-     
    
 
         
