@@ -29,9 +29,10 @@ jobs:
         run: pwd
         shell: bash
       - name: Get Web Status
-        run: $WebResponse= Invoke-WebRequest https://veckonr.se/ 
-      - name: Print Status
-        run: $WebResponse.StatusCode
+        run: |
+          $WebResponse= Invoke-WebRequest https://veckonr.se/ 
+          $WebResponse.StatusCode
+     
    
 
         
