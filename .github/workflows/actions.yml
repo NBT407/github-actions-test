@@ -2,7 +2,7 @@ name: Actions Workflow Commands
 
 on:
   repository_dispatch:
-    types: [Build]
+    types: [build]
   # schedule:
   #   - cron: "*/10 * * * *"
   push:
