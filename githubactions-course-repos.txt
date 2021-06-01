@@ -3,3 +3,5 @@ https://github.com/alialaa/github-actions-course-react
 https://github.com/actions/hello-world-javascript-action
 https://github.com/actions/checkout#usage
 https://docs.github.com/en/actions/reference/events-that-trigger-workflows
+https://crontab.guru/
+https://crontab.guru/examples.html
