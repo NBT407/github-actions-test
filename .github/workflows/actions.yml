@@ -12,8 +12,8 @@ on:
       - 'feature/*' # matches feature/
       - 'feature/**' # matches feature/*/
       - '!feature/featurC' # exclude feature/featureC
-    tags:
-      - v1.*
+    # tags:
+    #   - v1.*
     # paths:
     #   - '**.js'  # will run if changes in js folder
     #   - '!filname'  # will not run if changes in file filename
