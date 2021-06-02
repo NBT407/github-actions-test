@@ -7,6 +7,18 @@ on:
   # schedule:
   #   - cron: "*/10 * * * *"
   push:
+    branches:
+      - master
+      - 'feature/*' # matches feature/
+      - 'feature/**' # matches feature/*/
+      - '!feature/featurC' # exclude feature/featureC
+    tags:
+      - v1.*
+    # paths:
+    #   - '**.js'  # will run if changes in js folder
+    #   - '!filname'  # will not run if changes in file filename
+    paths-ignore:
+      - 'docs/**'  # will not run if changes in docs folder
   pull_request:
     types: [closed, assigned, opened, reopened]
 
