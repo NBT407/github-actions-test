@@ -5,3 +5,4 @@ https://github.com/actions/checkout#usage
 https://docs.github.com/en/actions/reference/events-that-trigger-workflows
 https://crontab.guru/
 https://crontab.guru/examples.html
+https://docs.github.com/en/rest/reference/repos#create-a-repository-dispatch-event
