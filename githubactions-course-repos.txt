@@ -6,3 +6,8 @@ https://docs.github.com/en/actions/reference/events-that-trigger-workflows
 https://crontab.guru/
 https://crontab.guru/examples.html
 https://docs.github.com/en/rest/reference/repos#create-a-repository-dispatch-event
+https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#filter-pattern-cheat-sheet
+https://docs.github.com/en/actions/reference/environment-variables
+
+ACTIONS_RUNNER_DEBUG
+ACTIONS_STEP_DEBUG
