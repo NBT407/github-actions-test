@@ -9,6 +9,8 @@ https://docs.github.com/en/rest/reference/repos#create-a-repository-dispatch-eve
 https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#filter-pattern-cheat-sheet
 https://docs.github.com/en/actions/reference/environment-variables
 https://docs.github.com/en/actions/reference/authentication-in-a-workflow
+https://www.gnupg.org/
+https://docs.github.com/en/actions/reference/encrypted-secrets
 
 ACTIONS_RUNNER_DEBUG
 ACTIONS_STEP_DEBUG
