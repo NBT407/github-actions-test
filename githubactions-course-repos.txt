@@ -11,6 +11,7 @@ https://docs.github.com/en/actions/reference/environment-variables
 https://docs.github.com/en/actions/reference/authentication-in-a-workflow
 https://www.gnupg.org/
 https://docs.github.com/en/actions/reference/encrypted-secrets
+https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions
 
 ACTIONS_RUNNER_DEBUG
 ACTIONS_STEP_DEBUG
