@@ -13,6 +13,7 @@ https://www.gnupg.org/
 https://docs.github.com/en/actions/reference/encrypted-secrets
 https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions
 https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions#functions
+https://docs.github.com/en/actions/reference/context-and-expression-syntax-for-github-actions#job-status-check-functions
 
 ACTIONS_RUNNER_DEBUG
 ACTIONS_STEP_DEBUG
